@@ -1,0 +1,9 @@
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\obj\Debug\Windows XP Message Box.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\bin\Debug\Windows XP Message Box.exe.config
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\bin\Debug\Windows XP Message Box.exe
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\bin\Debug\Windows XP Message Box.pdb
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\bin\Debug\Microsoft.WindowsAPICodePack.xml
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\obj\Debug\Windows XP Message Box.exe
+c:\users\sasha\documents\visual studio 2017\Projects\Windows XP Message Box\Windows XP Message Box\obj\Debug\Windows XP Message Box.pdb
